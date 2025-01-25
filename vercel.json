@@ -20,7 +20,4 @@
             "dest": "textutils/wsgi.py"
         }
     ]
-    "rewrites": [
-        { "source": "/(.*)", "destination": "/" }
-    ]
 }
